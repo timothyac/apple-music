@@ -1,10 +1,10 @@
 {
-  "name": "quark",
+  "name": "apple-music",
   "version": "1.0.0",
-  "description": "Boilerplate for electron applications built with typescript",
+  "description": "Apple music app built with electron",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SunstroUS/quark.git"
+    "url": "https://github.com/SunstroUS/apple-music.git"
   },
   "main": "dist",
   "scripts": {
